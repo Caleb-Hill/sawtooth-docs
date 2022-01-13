@@ -2,7 +2,41 @@
 title: Seth Developers Guide
 ---
 
-::: toctree
-introduction getting_started contracts permissions dapps
-seth_transaction_family_spec cli_reference community
-:::
+# Seth Developers Guide
+
+-  [Introduction](./introduction.html)
+- [Getting Started](./getting_started.html)
+    - [Getting Seth](./getting_started.html#getting-seth)
+    - [Starting Up Seth](./getting_started.html#starting-up-seth)
+    - [Creating an Account](./getting_started#creating-an-account)
+- [Contracts](./contracts.html)
+    - [Compiling Contracts](./contracts.html#compiling-contracts)
+    - [Deploying Contracts](./contracts.html#deploying-contracts)
+    - [Calling Contracts](./contracts.html#calling-contracts)
+- [Permissions](./permissions.html)
+    - [Permission Inheritance](./permissions.html#permission-inheritance)
+    - [Managing Permissions](./permissions.html#managing-permissions)
+    - [Securing the Network](./permissions.html#securing-the-network)
+- [Developing DApps](./dapps.html)
+    - [Starting Seth RPC](./dapps.html#starting-seth-rpc)
+    - [Deploying Contracts](./dapps.html#deploying-contracts)
+    - [Calling Contracts](./dapps.html#calling-contracts)
+    - [Subscribing to Logs](./dapps.html#subscribing-to-logs)
+    - [External Libraries](./dapps.html#external-libraries)
+    - [Supported Ethereum JSON-RPC API Methods](./dapps.html#supported-ethereum-json-rpc-api-methods)
+- [Seth Transaction Family Specification](./seth_transaction_family_spec.html#)
+    - [Overview](./seth_transaction_family_spec.html#overview)
+    - [State](./seth_transaction_family_spec.html#state)
+    - [Addressing](./seth_transaction_family_spec.html#addressing)
+    - [Transaction Payload](./seth_transaction_family_spec.html#transaction-payload)
+    - [Execution](./seth_transaction_family_spec.html#execution)
+    - [Receipts](./seth_transaction_family_spec.html#receipts)
+- [CLI Reference](./cli_reference)
+    - [Seth Client Usage](./cli_reference#seth-client-usage)
+    - [Seth Transaction Processor Usage](./cli_reference#seth-tp-reference-label)
+    - [Seth RPC Usage](./cli_reference#seth-rpc-reference-label)
+- [Community](./community.html)
+    - [Join the Discussion](./community/join_the_discussion.html)
+    - [Issue Tracking](./community/issue_tracking.html)
+    - [Contributing](./community/contributing.html)
+    - [Code of Conduct](./community/code_of_conduct.html)
