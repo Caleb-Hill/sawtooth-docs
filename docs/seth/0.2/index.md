@@ -3,7 +3,7 @@
 [Introduction](./introduction.html)\
 Learn about Sawtooth Seth
 
-[Community](./community.html)\
+[Community](./community/index.html)\
 Join the conversation
 
 [Table of Contents](./contents.html)\

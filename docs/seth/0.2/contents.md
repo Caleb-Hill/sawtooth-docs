@@ -35,7 +35,7 @@ title: Seth Developers Guide
     - [Seth Client Usage](./cli_reference#seth-client-usage)
     - [Seth Transaction Processor Usage](./cli_reference#seth-tp-reference-label)
     - [Seth RPC Usage](./cli_reference#seth-rpc-reference-label)
-- [Community](./community.html)
+- [Community](./community/index.html)
     - [Join the Discussion](./community/join_the_discussion.html)
     - [Issue Tracking](./community/issue_tracking.html)
     - [Contributing](./community/contributing.html)
