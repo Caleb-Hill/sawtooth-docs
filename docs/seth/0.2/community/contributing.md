@@ -2,7 +2,9 @@
 title: Contributing
 ---
 
-# Ways to Contribute
+# Contributing
+
+## Ways to Contribute {#ways-to-contribute}
 
 Contributions by the community help grow and optimize the capabilities
 of Sawtooth Seth, and are the most effective method of having a positive
@@ -24,7 +26,7 @@ role="ref"}. Any JIRA items which are unassigned are probably still
 open. If in doubt, ask on `chat`{.interpreted-text role="ref"} about the
 particular JIRA issue.
 
-# Commit Process
+## Commit Process {#commit-process}
 
 Hyperledger Sawtooth is Apache 2.0 licensed and accepts contributions
 via [GitHub](https://github.com/hyperledger/sawtooth-seth) pull
